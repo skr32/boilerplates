@@ -9,3 +9,4 @@
         state: present
         update_cache: true
       become: true
+  host_key_checking: false
